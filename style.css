@@ -20,7 +20,7 @@ body {
 	width: 100vw;
 	min-height: 100vh;
 	max-height: 400vh;
-	background-image: url("assets/bg-atas.jpg");
+	background-image: url("assets/img/Bikin_Rumah_Assets_10.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -394,7 +394,7 @@ a {
 /*--- CONTACT START ---*/
 .contact {
 	width: 100%;
-	background-image: url("assets/bg-bawah.jpg");
+	background-image: url("assets/img/Bikin_Rumah_Assets_29.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;

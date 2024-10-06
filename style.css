@@ -20,7 +20,7 @@ body {
 	width: 100vw;
 	min-height: 100vh;
 	max-height: 400vh;
-	background-image: url("assets/img/Bikin_Rumah_Assets_10.jpg");
+	background-image: url("assets/img/Bikin_Rumah_Assets_33.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -47,7 +47,8 @@ body {
 	min-width: 330px;
 	max-width: 80vw;
 	font-weight: 900;
-	color: rgb(255,176,0);
+	/* color: rgb(255,176,0); */
+	color: rgb(216,83,83);
 	font-size: 2em;
 	letter-spacing: 2px;
 }
@@ -57,13 +58,8 @@ body {
 	font-size: 1.2em;
 	line-height: 1.5em;
 }
-.merah {
-	margin: 0px 0px 0px 0px;
-	background-image: url("assets/merah.png");
-	background-size: cover;
-	width: 350px;
-	height: 80px;
-	padding-top: 30px;
+.top-title{	
+	color: rgb(216,83,83);
 }
 .tombol {
 	display: flex;
@@ -71,7 +67,7 @@ body {
 	width: 100vw;
 }
 .btn-chat-atas div {
-
+	
 	margin-bottom: 20px;
 	display: flex;
 	align-items: center;
